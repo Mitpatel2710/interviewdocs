@@ -3,13 +3,13 @@ tagline : Interview questions and answers
 description: Interview questions and answers notes or docs
 # baseurl: "/interview-docs" # the subpath of your site, e.g. /blog
 baseurl: ""
-url: https://interview-docs.com # the base hostname & protocol for your site, e.g. http://example.com
+url: https://interview-docs.codewithmit.com # the base hostname & protocol for your site, e.g. http://example.com
 author:
-  name: Sunil Soni
-  email: docs.interview@gmail.com
-  github: sunilsoni
+  name: Mit Patel
+  email: patelzeelu15@gmail.com
+  github: mitpatel2710
 
-production_url: https://interview-docs.com
+production_url: https://interview-docs.codewithmit.com
 
 # Set a path/url to a logo that will be displayed instead of the title
 #logo: "/utils/job-logo.jpeg"
