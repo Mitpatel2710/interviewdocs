@@ -2,14 +2,14 @@ title: Interview Docs
 tagline : Interview questions and answers
 description: Interview questions and answers notes or docs
 # baseurl: "/interview-docs" # the subpath of your site, e.g. /blog
-baseurl: ""
-url: https://interview-docs.codewithmit.com # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/interviewdocs"
+url: "https://Mitpatel2710.github.io"  # the base hostname & protocol for your site, e.g. http://example.com
 author:
   name: Mit Patel
   email: patelzeelu15@gmail.com
   github: mitpatel2710
 
-production_url: https://interview-docs.codewithmit.com
+production_url: "https://Mitpatel2710.github.io/interviewdocs"
 
 # Include additional directories to be processed by Jekyll
 include: ["_pages"]
