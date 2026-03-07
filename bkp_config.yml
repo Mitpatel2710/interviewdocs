@@ -1,0 +1,20 @@
+title: Interview Docs
+description: Interview preparation notes
+remote_theme: just-the-docs/just-the-docs@v0.10.0
+
+plugins:
+  - jekyll-remote-theme
+
+url: "https://interview-docs.codewithmit.com"
+baseurl: ""
+
+aux_links:
+  "GitHub":
+    - "https://github.com/Mitpatel2710/interviewdocs"
+
+search_enabled: true
+
+exclude:
+  - README.md
+  - sitemap.xml
+  - .nojekyll
